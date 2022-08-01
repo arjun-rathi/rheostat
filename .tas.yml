@@ -6,7 +6,6 @@ preRun:
 postMerge: 
   pattern:
     - "test/algorithms/geometric-test.js"
-    - "test/algorithms/linear-test.js"
 preMerge:
   pattern:
     - "test/algorithms/geometric-test.js"
