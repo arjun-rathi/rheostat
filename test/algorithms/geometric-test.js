@@ -44,3 +44,4 @@ describe('geometric algorithm', () => {
     assert.equal(positionFromValue, x);
   });
 });
+
